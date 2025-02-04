@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.main{
+    display: flex;
+  align-items: center;
+  padding: 20px 0px;
+  background-color: green;
+    justify-content: space-evenly;
+}
+
+.list{
+    list-style: none;
+    display: flex;
+    gap: 40px;
+    color: white;
+}
+ 
+
+.main button{
+    background-color: orange;
+    border: none;
+    border-radius: 12px;
+    padding: 10px 10px;
+    color: white;
+}
