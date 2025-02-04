@@ -27,3 +27,23 @@
     padding: 10px 10px;
     color: white;
 }
+
+.section2 h1{
+     font-size: 50px;
+      
+    color: red;
+
+}
+.section2 button{
+    background-color: orange;
+    border: none;
+    border-radius: 12px;
+    padding: 15px 15px;
+    color: white;
+    margin-top: 20px;
+
+}
+.section2 {
+    padding: 100px 100px;
+}
+
