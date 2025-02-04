@@ -47,3 +47,13 @@
     padding: 100px 100px;
 }
 
+.section2 img{
+    border-radius: 20px;
+    width: 350px;
+    height: 300px;
+}
+
+.section2{
+    display: flex;
+    gap: 180px;
+}
