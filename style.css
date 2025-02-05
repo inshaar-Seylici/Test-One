@@ -62,3 +62,16 @@
     width: 100%;
     height: 400px;
 }
+
+.hero h1{
+    text-align: center;
+    margin-top: 70px;
+}
+
+ 
+.section4 {
+    margin-top: 60px;
+    padding: 0px 30px;
+    gap: 30px;
+}
+ 
