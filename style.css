@@ -311,5 +311,133 @@ margin-top: 40px;
     margin-top: 70px;
  }
 
+ /* footer */
 
+ .footer{
+    background-color: bisque;
+    height: 500px;
+    margin-top: 60px;
+   padding: 100px 230px;
+   display: flex;
+   gap: 50px;
+  
+ }
+ .footer h1{
+    width: 340px;
+    height: 180px;
+   
+}
+
+ .child-icons{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 16px;
+    
+    
+ }
+
+ .hr{
+    width: 2px;
+    height: 420px;
+    background-color: black;
+ }
+
+ .Right{
+    margin-left: 60px;
+ }
+
+ input {
+    width: 300px;
+    height: 30px;
+    border: none;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    text-align: center;
+ }
+ ::placeholder{
+    color: black;
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+
+ .Right p{
+    margin-top: 30px;
+    margin-left: 20px;
+     
+ }
+ .Right button{
+    background-color: white;
+    padding: 10px 10px ;
+    border: none;
+    border: 10px;
+    border-radius: 12px;
+    margin-left: 100px;
+    margin-top: 30px;
+    
+ }
+ .hr1{
+    width: 120px;
+    margin-top: 40px;
+    
+ }
+ .hr2{
+    width: 120px;
+    margin-left: 55px;
+    margin-top: -6px;
+   
+    
+ }
+.underline{
+    display: flex;
+}
+.p p{
+    font-size: 15px;
+    font-weight: bold;
+}
  
+.Google{
+    width: 200px;
+    height: 35px;
+    background-color: white;
+    border-radius: 12px;
+    margin-top: 36px;
+    margin-left: 40px;
+    display: flex;
+}
+.Google p{
+   font-size: 10px;
+   text-align: center;
+    padding-top: 15px;
+    margin-top: -3px;
+
+}
+
+.Google img{
+    width: 30px;
+    height: 30px;
+    margin: 2px 7px;
+}
+
+
+.Google2{
+    width: 200px;
+    height: 35px;
+    background-color: white;
+    border-radius: 12px;
+    margin-top: 20px;
+    margin-left: 40px;
+    display: flex;
+}
+.Google2 p{
+   font-size: 10px;
+   text-align: center;
+    padding-top: 15px;
+    margin-top: -3px;
+
+}
+
+.Google2 img{
+    width: 30px;
+    height: 30px;
+    margin: 2px 7px;
+}
